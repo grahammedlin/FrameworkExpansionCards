@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Logitech_Unifying_Expansion_Card_Retrofit")(type "KiCad")(uri "${KIPRJMOD}/Logitech_Unifying_Expansion_Card_Retrofit.kicad_sym")(options "")(descr ""))
+)
