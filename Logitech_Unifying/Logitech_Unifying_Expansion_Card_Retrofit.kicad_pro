@@ -409,7 +409,9 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
+    "pinned_footprint_libs": [
+      "Expansion_Card"
+    ],
     "pinned_symbol_libs": []
   },
   "meta": {
